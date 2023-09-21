@@ -17,5 +17,5 @@ As we increasingly move further into a world that once was only to be found in s
 # Publications
 
 - **[Measuring Innovation](publications/measuring_innovation.pdf)** A paper exploring what innovation is, what it means to different people in different contexts, and different ways to measure it depending on your priorities and motivations. It explores the different phases of innovation, what it takes to innovate in terms of commitment, time, and resources, and provides examples from industry of leading practices, tools, and methodologies.
-
+- **[Connected Car Ecosystem](publications/connected_car_ecosystem.pdf)** A paper about the future of automotive exploring ways participants in the ecosystem can work together to enable self-driving cars. This paper includes research on topics as esoteric as the number of lines of code in the space shuttle, an F35 Fighter-Jet, the Large Hadron Collider, and 'modern connected cars', although when I wrote this the cars were not self-driving - but they still had more lines of code inside them than those other platforms I just listed put together. Maybe AI can help us use less lines of code.
 
